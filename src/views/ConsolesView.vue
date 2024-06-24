@@ -22,8 +22,8 @@ export default {
   data() {
     return {
       consoles: [
-        { id: 1, name: "PlayStation 5", manufacturer: "Sony", price: "$499" },
-        { id: 2, name: "Xbox Series X", manufacturer: "Microsoft", price: "$499" },
+        { id: 1, name: "PlayStation 5", manufacturer: "Sony", price: "R499" },
+        { id: 2, name: "Xbox Series X", manufacturer: "Microsoft", price: "R499" },
       ]
     };
   }

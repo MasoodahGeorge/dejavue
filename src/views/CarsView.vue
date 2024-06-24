@@ -22,8 +22,8 @@ export default {
   data() {
     return {
       cars: [
-        { id: 1, make: "Toyota", model: "Camry", year: 2020, price: "$24,000" },
-        { id: 2, make: "Honda", model: "Accord", year: 2019, price: "$22,000" },
+        { id: 1, make: "Toyota", model: "Camry", year: 2020, price: "R24,000" },
+        { id: 2, make: "Honda", model: "Accord", year: 2019, price: "R22,000" },
       ]
     };
   }

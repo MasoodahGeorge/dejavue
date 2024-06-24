@@ -37,9 +37,5 @@
 </script>
 
 <style scoped>
-     .spinner {
-    font-size: 24px;
-    text-align: center;
-    padding: 20px;
-  }
+
 </style>
