@@ -5,6 +5,7 @@
     <router-link to="/consoles">Consoles</router-link> |
     <router-link to="/friends">Friends</router-link> |
     <router-link to="/cars">Cars</router-link>
+    
   </nav>
   <router-view/>
 </template>
